@@ -1,0 +1,3 @@
+## Checkers Game
+# Marek Žáčik
+

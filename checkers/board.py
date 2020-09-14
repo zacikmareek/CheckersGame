@@ -5,7 +5,6 @@ from .piece import Piece
 class Board:
     def __init__(self,): #Self pass instance of object -- __init__ is constructor 
         self.board = []
-        self.selected_piece = None
         self.red_left = self.white_left = 12 #How many of each color
         self.red_kings = self.white_kings = 0 #How many kings
         self.create_board()
